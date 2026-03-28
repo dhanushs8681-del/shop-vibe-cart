@@ -1,6 +1,6 @@
 # 🛒 ShopVibe — Add to Cart Application Using Router
 
-A modern, responsive e-commerce shopping cart application built with **ReactJS** and **React Router**, featuring smooth animations, dark theme UI, and complete cart management functionality.
+A modern, responsive e-commerce shopping cart application built with **ReactJS** and **React Router**, featuring smooth animations, dark theme UI and complete cart management functionality.
 
 ![React](https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-6-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
@@ -13,9 +13,7 @@ A modern, responsive e-commerce shopping cart application built with **ReactJS**
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Site](https://your-netlify-url.netlify.app)**
-
-🔗 **[GitHub Repository](https://github.com/Lokesh-web16/shop-vibe-cart)**
+🔗 **[View Live Site](https://vibe-shop-cart.netlify.app/)**
 
 ---
 
