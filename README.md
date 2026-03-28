@@ -25,7 +25,7 @@ A modern, responsive e-commerce shopping cart application built with **ReactJS**
 | **React Router** | Client-side routing to navigate between Product and Cart pages |
 | **HTML/CSS** | Page structure and custom styling |
 | **Tailwind CSS** | Utility-first CSS framework for responsive styling |
-| **JavaScript (ES6+)** | Application logic, state management, and functionality |
+| **JavaScript (ES6+)** | Application logic, state management and functionality |
 
 > **API Used:** [Fake Store API](https://fakestoreapi.com/) — for fetching product data as specified in the task requirements.
 
@@ -36,7 +36,7 @@ A modern, responsive e-commerce shopping cart application built with **ReactJS**
 ### 🛍️ Products Page (`/`)
 - Fetches products from **Fake Store API** (`https://fakestoreapi.com/products`)
 - Displays products in a **responsive grid layout** (1–4 columns)
-- Each product shows **image, title, price, description, and ratings**
+- Each product shows **image, title, price, description and ratings**
 - **Category filtering** — filter by All, Electronics, Jewelery, Men's, Women's Clothing
 - **"Add to Cart"** button on each product
 - If product is already in cart, shows **"Remove from Cart"** button
@@ -67,13 +67,13 @@ A modern, responsive e-commerce shopping cart application built with **ReactJS**
 
 ### 🎨 Design & UI
 - Premium **dark theme** with glassmorphism design
-- **Responsive layout** — works on mobile, tablet, and desktop
+- **Responsive layout** — works on mobile, tablet and desktop
 - Smooth **CSS animations** (fade-in, slide, scale, float)
 - **Toast notifications** for add/remove feedback
 - Category badges with distinct colors
 - Custom scrollbar styling
 - Mobile hamburger menu
-- Full footer with links, newsletter, and social icons
+- Full footer with links, newsletter and social icons
 
 ---
 
