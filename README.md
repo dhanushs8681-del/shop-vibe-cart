@@ -120,7 +120,7 @@ shop-vibe-cart/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Lokesh-web16/shop-vibe-cart.git
+git clone https://github.com/dhanush8681-del/shop-vibe-cart.git
 
 # Navigate to project directory
 cd shop-vibe-cart
@@ -165,48 +165,6 @@ npm run build
   }
 }
 ```
-
----
-
-## 🎯 Task Requirements Checklist
-
-| Requirement | Status |
-|---|---|
-| Use Fake Store API to fetch products | ✅ |
-| Display products with image, title, price, description | ✅ |
-| Responsive product layout | ✅ |
-| Separate Cart page with cart items | ✅ |
-| Each cart item shows name, price, quantity, Remove button | ✅ |
-| "Add to Cart" button adds product to cart | ✅ |
-| If already in cart, show "Remove from Cart" button | ✅ |
-| Increase / Decrease quantity in cart | ✅ |
-| Total price per item based on quantity | ✅ |
-| Dynamic total price changes with quantity | ✅ |
-| 10% discount on total price | ✅ |
-| Proper state management for add/remove | ✅ |
-| React Router for navigation between pages | ✅ |
-| Clean, readable, well-documented code | ✅ |
-| README file explaining the project | ✅ |
-| Deployed on Netlify | ✅ |
-| Code pushed to GitHub | ✅ |
-
----
-
-## 🌐 Deployment
-
-### Netlify
-
-1. Push code to GitHub
-2. Go to [Netlify](https://www.netlify.com)
-3. Click **"Add new site"** → **"Import an existing project"**
-4. Connect GitHub and select `shop-vibe-cart` repository
-5. Build settings:
-   - **Build command:** `npm run build`
-   - **Publish directory:** `dist`
-6. Click **"Deploy site"**
-
-> The `public/_redirects` file handles React Router SPA routing on Netlify.
-
 ---
 
 ## 📄 License
